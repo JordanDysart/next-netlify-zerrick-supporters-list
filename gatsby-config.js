@@ -9,16 +9,13 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Zerrick's Road to Nationals`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Zerrick Dysart-Waterman`,
+      summary: `I'm heading to nationals and thank you all for the support.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Have a look at all of my sponsors.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
   },
   plugins: [
     `gatsby-plugin-image`,
